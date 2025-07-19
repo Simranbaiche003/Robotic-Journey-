@@ -58,6 +58,7 @@ Provides the required energy to keep all components functioning.
 ## 💬 Reflection  
 Today was a milestone! I began reading my **first robotics book** and explored **ROS fundamentals**—the foundation of modern robot programming. This journey is just beginning, and I’m excited to dive deeper into ROS, simulation, and AI integration.
 
----
+## 🔖 Tags
+`robotics` `AI` `autonomous` `learning-log` `robot` `ros` `ai-in-robotics` `ros2` `turtlebot` `baxter` `ros-fundamentals` `open-source`
 
 📝 _Learning. Logging. Leveling Up._  
